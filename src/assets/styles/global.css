@@ -1,0 +1,37 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: var(--bg-color);
+  color: var(--text-primary);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.card {
+  border: 1px solid var(--border-color);
+  box-shadow: 0 8px 30px rgba(15, 23, 42, 0.05);
+  border-radius: 16px;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.badge-status {
+  padding: 0.4rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.table-responsive {
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.form-control:focus, .form-select:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 0.2rem rgba(37, 99, 235, 0.15);
+}

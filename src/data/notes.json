@@ -1,0 +1,7 @@
+[
+  {"id":1,"leadId":1,"content":"Discussed ERP implementation timeline and budget.","createdAt":"2025-01-10T10:00:00.000Z","createdBy":"Ava Martinez"},
+  {"id":2,"leadId":1,"content":"Requested a product demo for next week.","createdAt":"2025-01-11T09:15:00.000Z","createdBy":"Noah Patel"},
+  {"id":3,"leadId":2,"content":"Follow-up call scheduled for Friday.","createdAt":"2025-01-11T11:00:00.000Z","createdBy":"Sophia Chen"},
+  {"id":4,"leadId":5,"content":"Lead accepted proposal and needs onboarding details.","createdAt":"2025-01-15T17:00:00.000Z","createdBy":"Mia Thompson"},
+  {"id":5,"leadId":10,"content":"Initial interest from a retail chain.","createdAt":"2025-01-24T12:30:00.000Z","createdBy":"James Moore"}
+]
